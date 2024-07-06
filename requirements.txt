@@ -1,0 +1,7 @@
+ipykernel
+openai
+python-dotenv
+streamlit==1.33.0
+streamlit_webrtc
+moviepy
+pydub
