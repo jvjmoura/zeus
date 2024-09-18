@@ -1,0 +1,4 @@
+streamlit==1.22.0
+whisper==1.1.10
+moviepy==1.0.3
+pathlib==1.0.1
